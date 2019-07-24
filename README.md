@@ -29,6 +29,7 @@ To prepare required 17flowers dataset, run
 
 ### Test model
 Run `python test.py` to test images
+![](assets/test_result.png)
 
 
 ## Note
